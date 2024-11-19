@@ -6,8 +6,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # サンプルファイルのパス
-SAMPLE_AUDIO_PATH = r"test_sample\uguisu.mp3"
-SAMPLE_CSV_PATH = r"test_sample\uguisu.BirdNET.results.csv"
+SAMPLE_AUDIO_PATH = "test_sample/uguisu.mp3"
+SAMPLE_CSV_PATH = "test_sample/uguisu.BirdNET.results.csv"
+
 
 # アプリのタイトルと設定
 st.set_page_config(page_title="Spectrogram Generator", layout="wide")
