@@ -1,0 +1,24 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Horornis diphone,Japanese Bush Warbler,0.6884,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+6.0,9.0,Horornis diphone,Japanese Bush Warbler,0.9940,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+12.0,15.0,Horornis diphone,Japanese Bush Warbler,0.9914,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+21.0,24.0,Horornis diphone,Japanese Bush Warbler,0.8420,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+27.0,30.0,Horornis diphone,Japanese Bush Warbler,0.9342,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+33.0,36.0,Horornis diphone,Japanese Bush Warbler,0.9175,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+33.0,36.0,Horornis canturians,Manchurian Bush Warbler,0.6709,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+36.0,39.0,Cuculus canorus,Common Cuckoo,0.7856,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+39.0,42.0,Cuculus canorus,Common Cuckoo,0.7943,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+42.0,45.0,Horornis diphone,Japanese Bush Warbler,0.9948,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+42.0,45.0,Horornis canturians,Manchurian Bush Warbler,0.6567,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+48.0,51.0,Horornis diphone,Japanese Bush Warbler,0.7522,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+48.0,51.0,Cuculus canorus,Common Cuckoo,0.6434,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+48.0,51.0,Eurypyga helias,Sunbittern,0.5119,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+51.0,54.0,Horornis diphone,Japanese Bush Warbler,0.9693,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+51.0,54.0,Horornis canturians,Manchurian Bush Warbler,0.9517,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+78.0,81.0,Halcyon smyrnensis,White-throated Kingfisher,0.7913,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+81.0,84.0,Horornis diphone,Japanese Bush Warbler,0.9457,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+84.0,87.0,Horornis diphone,Japanese Bush Warbler,0.6953,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+99.0,102.0,Horornis diphone,Japanese Bush Warbler,0.8196,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+108.0,111.0,Horornis diphone,Japanese Bush Warbler,0.5420,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+111.0,114.0,Horornis diphone,Japanese Bush Warbler,0.7762,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
+123.0,126.0,Horornis diphone,Japanese Bush Warbler,0.6128,D:\python\BirdNET-Analyzer-DKver\analyze-data\raw-data\uguisu.wav
